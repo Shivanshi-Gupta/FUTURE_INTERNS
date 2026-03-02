@@ -1,4 +1,4 @@
-Marketing Funnel & Conversion Performance Analysis: Power BI Dashboard
+**Task 03: Marketing Funnel & Conversion Performance Analysis - Power BI Dashboard**
 
 **📌 Project Overview**
 This project focuses on analyzing marketing funnel performance and customer conversion behavior using Power BI. The goal is to understand how users move through different funnel stages — from initial contact to final subscription — and identify key drop-off points, high-performing segments, and campaign optimization opportunities.
